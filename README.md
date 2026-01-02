@@ -1,1 +1,1 @@
-# Human_Following_Robot
+Delete default README
