@@ -1,6 +1,6 @@
 # Human Following Robot 
 
-Arduino-based robot that follows a human using ultrasonic sensors.
+Arduino-based robot that follows a human/target using 2 ultrasonic sensors.
 
 ## Features
 - Real-time distance sensing
@@ -8,7 +8,7 @@ Arduino-based robot that follows a human using ultrasonic sensors.
 - Smooth following behavior
 
 ## Files
-- `docs/HF_DESCRIPTION.pdf` → detailed report
+- `HF_DESCRIPTION.pdf` → detailed report
 - `code/` → Arduino source code
 - `media/` → images & demo video
 
